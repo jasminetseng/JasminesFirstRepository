@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.iii</groupId>
-	<artifactId>iii-ee104</artifactId>
+	<artifactId>JasminesFirstRepository</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>iii-ee104</name>
+	<name>JasminesFirstRepository</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
